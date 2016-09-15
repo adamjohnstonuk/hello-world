@@ -1,2 +1,3 @@
 # hello-world
-tutorial
+
+Hey, my name is Adam Johnston :)
